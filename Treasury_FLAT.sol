@@ -1,10 +1,11 @@
+// SPDX-License-Identifier: MIT
+/**
+ * @notice RewardRaffle Protocol is free to use, but please consider donating to the RewardPool treasury
+ * SGB Address: 0xBdf6A975bf0c005c635E90b920A2D5aEEA3c39Aa
+ * https://rewardpool.xyz/treasury
+*/
 
 // File: contracts/Treasury.sol
-
-
-// File: contracts/RPTreasury.sol
-
-
 
 pragma solidity >=0.7.6;
 
